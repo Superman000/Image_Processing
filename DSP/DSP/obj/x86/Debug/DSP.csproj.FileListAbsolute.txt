@@ -1,0 +1,27 @@
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\obj\x86\Debug\DSP.MainWindow.resources
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\obj\x86\Debug\DSP.Properties.Resources.resources
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\bin\Debug\DSP.exe
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\bin\Debug\DSP.pdb
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\obj\x86\Debug\DSP.exe
+c:\users\ruan\documents\visual studio 2010\Projects\DSP\DSP\obj\x86\Debug\DSP.pdb
+H:\DSP\DSP\obj\x86\Debug\DSP.exe
+H:\DSP\DSP\obj\x86\Debug\DSP.pdb
+H:\DSP\DSP\bin\Debug\DSP.exe
+H:\DSP\DSP\bin\Debug\DSP.pdb
+H:\DSP\DSP\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\DSP\DSP\obj\x86\Debug\DSP.MainWindow.resources
+H:\DSP\DSP\obj\x86\Debug\DSP.Properties.Resources.resources
+H:\DSP\DSP\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\DSP\DSP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\obj\x86\Debug\DSP.exe
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\obj\x86\Debug\DSP.pdb
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\bin\Debug\DSP.exe
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\bin\Debug\DSP.pdb
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\obj\x86\Debug\DSP.MainWindow.resources
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\obj\x86\Debug\DSP.Properties.Resources.resources
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ruan\Downloads\DSP\DSP\DSP\obj\x86\Debug\GenerateResource.write.1.tlog
